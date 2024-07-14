@@ -4,13 +4,40 @@
 <br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/geoffreynyaga?label=FOLLOW%20%40geoffreynyaga&style=for-the-badge)](https://twitter.com/geoffreynyaga)
 
-## I'm a Husband, Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [React Native E-commerce App][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## About Me
+
+### I'm a Husband, Father, Developer, and Teacher!
+
+I'm a seasoned software engineer with a strong background in AI, drones, and geospatial technologies. With a passion for solving African problems through innovative software solutions, I have successfully led and contributed to various impactful projects.
+
+
+## Projects and Apps:
+
+- **Addiction**: An app addressing addiction recovery
+- **GoodChoice**: A decision-making assistance tool
+- **EDT**: An educational development tracker
+- **Yiakunte**: A cultural heritage preservation app
+
+### Key Projects:
+
+- **KTDA**: Bursary system for the biggest tea farmers group in Kenya
+- **Anga UTM**: Unmanned Traffic Management system for drone operations
+- **Precision Drone Data**: AI-driven data analysis for drone imagery
+
+## Skills:
+
+- Geodjango
+- React
+- React Native/Expo
+- Django
+  
+
+- 🔭 Currently working on a [React Native E-commerce App][website]
+- 🌱 Always learning and exploring new technologies
+- 👯 Looking to collaborate with other developers and content creators
+- 🥅 2024 Goals: Contribute more to open source projects and communities
+
 
 ### Connect with me:
 
