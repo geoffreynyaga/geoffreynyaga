@@ -33,10 +33,10 @@ I'm a seasoned software engineer with a strong background in AI, drones, and geo
 - Django
   
 
-- 🔭 Currently working on a [React Native E-commerce App][website]
-- 🌱 Always learning and exploring new technologies
-- 👯 Looking to collaborate with other developers and content creators
-- 🥅 2024 Goals: Contribute more to open source projects and communities
+- Currently working on a [React Native E-commerce App][website]
+- Always learning and exploring new technologies
+- Looking to collaborate with other developers and content creators
+- 2024 Goals: Contribute more to open source projects and communities
 
 
 ### Connect with me:
@@ -60,7 +60,7 @@ I'm a seasoned software engineer with a strong background in AI, drones, and geo
 
 ---
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
