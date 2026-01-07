@@ -7,9 +7,9 @@
 
 ## About Me
 
-### I'm a Husband, Father, Developer, and Teacher!
+### I'm a Husband, father, developer, and teacher!
 
-I'm a seasoned software engineer with a strong background in AI, drones, and geospatial technologies. With a passion for solving African problems through innovative software solutions, I have successfully led and contributed to various impactful projects.
+I'm a software engineer with a background in AI, drones, and geospatial technologies. Based in Kenya, building solutions for African challenges.
 
 
 ## Projects and Apps:
